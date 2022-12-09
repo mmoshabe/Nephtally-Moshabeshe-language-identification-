@@ -1,1 +1,1 @@
-# tlotlo-mokabo-language-identification
+# Nephtally-Moshabeshe-language-identification
